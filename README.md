@@ -1,7 +1,7 @@
-<a href="https://github.com/IshaShah/IshaShah">
+<a href="https://github.com/ishshah1101">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/IshaShah/IshaShah/blob/main/assets/banner-dark.png">
-    <img alt="Isha Shah's GitHub Profile README" src="https://github.com/IshaShah/IshaShah/blob/main/assets/banner-light.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ishshah1101/blob/main/assets/banner-dark.png">
+    <img alt="Isha Shah's GitHub Profile README" src="https://github.com/ishshah1101/blob/main/assets/banner-light.png">
   </picture>
 </a>
 
@@ -30,9 +30,9 @@ For a detailed list of my projects, visit my GitHub repositories.
 📂 **Deep Learning** - Neural networks & advanced deep learning architectures.
 📂 **Computer Vision** - Image processing & real-time object detection.
 
-🔗 [Visit My GitHub Profile]([https://github.com/IshaShah](https://github.com/ishshah1101))
+🔗 [Visit My GitHub Profile](https://github.com/ishshah1101)
 
 ## 🌎 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([[https://www.linkedin.com/in/isha-shah/](https://www.linkedin.com/in/isha-shah-ba328b239/)](https://www.linkedin.com/in/isha-shah-ba328b239/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/isha-shah-ba328b239/)
 
 💡 **Exploring the intersection of AI, data, and innovation!**
