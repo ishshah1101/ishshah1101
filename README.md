@@ -1,10 +1,3 @@
-<a href="https://github.com/ishshah1101">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ishshah1101/blob/main/assets/banner-dark.png">
-    <img alt="Isha Shah's GitHub Profile README" src="https://github.com/ishshah1101/blob/main/assets/banner-light.png">
-  </picture>
-</a>
-
 # 👩‍💻 Hi, I'm Isha Shah!
 
 🚀 **AI Innovator | Data Science Enthusiast | Machine Learning & Deep Learning Engineer**
