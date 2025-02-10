@@ -33,6 +33,6 @@ For a detailed list of my projects, visit my GitHub repositories.
 🔗 [Visit My GitHub Profile]([https://github.com/IshaShah](https://github.com/ishshah1101))
 
 ## 🌎 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/isha-shah/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([[https://www.linkedin.com/in/isha-shah/](https://www.linkedin.com/in/isha-shah-ba328b239/)](https://www.linkedin.com/in/isha-shah-ba328b239/))
 
 💡 **Exploring the intersection of AI, data, and innovation!**
