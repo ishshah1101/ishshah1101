@@ -1,10 +1,15 @@
-![Header](https://github.com/your-username/your-username/blob/main/assets/banner.png)
+<a href="https://github.com/IshaShah/IshaShah">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/IshaShah/IshaShah/blob/main/assets/banner-dark.png">
+    <img alt="Isha Shah's GitHub Profile README" src="https://github.com/IshaShah/IshaShah/blob/main/assets/banner-light.png">
+  </picture>
+</a>
 
-# 👋 Hi, I'm [ISHA SHAH]!
+# 👩‍💻 Hi, I'm Isha Shah!
 
-🚀 **Aspiring Data Scientist | Machine Learning & Deep Learning Enthusiast | MERN Stack Developer**
+🚀 **AI Innovator | Data Science Enthusiast | Machine Learning & Deep Learning Engineer**
 
-I'm a college graduate with **expertise in ML, Computer Vision, and Deep Learning**, working on impactful projects in data science. Passionate about building intelligent systems and **optimizing models for real-world applications**. 
+I'm a **Computer Science student graduating in May 2025**, passionate about AI-driven solutions, data-driven decision-making, and pushing the boundaries of technology.
 
 ---
 ## 🛠️ Tech Stack & Tools
@@ -14,42 +19,20 @@ I'm a college graduate with **expertise in ML, Computer Vision, and Deep Learnin
 - **Databases:** MySQL, Firebase, SQL
 - **Web Dev:** React, Node.js, Flask
 - **Visualization:** Power BI, Matplotlib, Seaborn
+- **Cloud & Deployment:** AWS, Docker, Flask, FastAPI
 
 ---
-## 📌 Featured Projects
+## 📌 Projects
 
-### 1️⃣ **AeroAnalytics - Flight Rate Prediction** ✈️
-**92% accuracy achieved using Random Forest algorithms** 
-- Developed predictive models using **scikit-learn & Flask**
-- Integrated real-time **visualizations with Seaborn & Matplotlib**
-- Optimized SQL & statistical evaluations for improved reliability
+For a detailed list of my projects, visit my GitHub repositories.
 
-🔗 [View Project](https://github.com/your-username/AeroAnalytics)
+📂 **Machine Learning** - Cutting-edge predictive modeling & AI solutions.
+📂 **Deep Learning** - Neural networks & advanced deep learning architectures.
+📂 **Computer Vision** - Image processing & real-time object detection.
 
-### 2️⃣ **Outlier Detection in Large Datasets** 📊
-- Analyzed **3TB of data** for **anomaly detection**
-- Applied **unsupervised learning** for outlier classification
-- Built a **Power BI dashboard** for insights visualization
+🔗 [Visit My GitHub Profile]([https://github.com/IshaShah](https://github.com/ishshah1101))
 
-🔗 [View Project](https://github.com/your-username/Outlier-Detection)
-
-### 3️⃣ **Image Recognition with Deep Learning** 🖼️
-- Built a **CNN model using TensorFlow & Keras**
-- Achieved **98% accuracy** on benchmark datasets
-- Implemented **real-time image classification** with OpenCV
-
-🔗 [View Project](https://github.com/your-username/ImageRecognitionDL)
-
----
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
----
 ## 🌎 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2300A98F.svg?style=for-the-badge)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/isha-shah/)
 
-Let's collaborate and build something amazing! 🚀
+💡 **Exploring the intersection of AI, data, and innovation!**
